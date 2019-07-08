@@ -1,0 +1,12 @@
+/*
+ * ToastFs
+ * Copyright 2019
+ * Author: Faisal Rashid
+ * All Rights Reserved.
+ * Use, reproduction, distribution, and modification of this code is subject to the terms and
+ * conditions of the MIT license, available at http://www.opensource.org/licenses/mit-license.php
+ *
+ * Project: https://github.com/FaisalST32/fs-toast
+ */
+
+.fstoast-container{transition:all .5s cubic-bezier(.68,-.55,.27,1.55);position:fixed;bottom:20px;right:-400px}.fstoast-body{display:inline-flex;align-items:center;padding:20px 50px 20px 20px;background-color:#fff;border:1px solid #cecece;border-radius:2px;font-size:17px;font-family:sans-serif;color:#5f5f5f;box-shadow:0 2px 10px rgba(0,0,0,.2);max-width:320px}.fstoast-close-button{background:0 0;color:#5f5f5f;border-radius:2px;border:none;vertical-align:top;position:absolute;cursor:pointer;right:10px;top:20px;transition:all .1s ease-in-out;outline:0}.fstoast-close-button:hover{background:#8b0000;color:#fff}.fstoast-message-mark{margin-right:20px;font-size:20px}.fstoast-container.fstoast-active{right:20px}

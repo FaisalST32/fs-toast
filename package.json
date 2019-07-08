@@ -1,0 +1,28 @@
+{
+  "name": "fs-toast",
+  "version": "1.0.0",
+  "description": "A simple library to display toast notifications in your webpages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaisalST32/fs-toast.git"
+  },
+  "keywords": [
+    "toast",
+    "javascript",
+    "toast",
+    "toast",
+    "notifications",
+    "html",
+    "toast"
+  ],
+  "author": "Faisal Rashid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FaisalST32/fs-toast/issues"
+  },
+  "homepage": "https://github.com/FaisalST32/fs-toast#readme"
+}
