@@ -2,6 +2,8 @@
   
 A simple javascript library for displaying toast notifications. This library doesn't have any dependencies and can be used with any webpage.
 
+You can view a demo [here](https://www.cssscript.com/demo/sliding-notification-toast-fs/)
+
 ### CDN Links:
 
 [https://cdn.jsdelivr.net/gh/FaisalST32/fs-toast@latest/src/js/toastfs.min.js](https://cdn.jsdelivr.net/gh/FaisalST32/fs-toast@latest/src/js/toastfs.min.js)  
